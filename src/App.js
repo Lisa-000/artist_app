@@ -1,7 +1,8 @@
 import './App.css'
 import Artist from './components/Artist'
 import Genre from './components/Genre'
-
+import artistArray from './data.json'
+import genres from './data.json'
 const App = () => {
   return (
     <div>
@@ -9,15 +10,15 @@ const App = () => {
         <center>Artist Directory</center>
       </h1>
       <div className="moviestyle">
-        {artist.map((artist) => (
+        {artistArray.map((Artist) => (
           <div className="moviestyletwo">
             <Artist
-              name={artist.artist_name}
-              location={artist.location}
-              image={artist.image}
+              name={Artist.artist_name}
+              location={Artist.location}
+              image={Artist.image}
             />
             <div className="genrecont">
-              {artist.genres.map((genre, index) => (
+              {Artist.genres.map((genre, index) => (
                 <Genre genre={genre.name} />
               ))}
             </div>
