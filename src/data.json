@@ -2,7 +2,7 @@
   "artist": [
     {
       "image": "https://beautifulbizarre.net/wp-content/uploads/2021/11/Tina-Yu-Shui-1-1140x733.jpg.webp",
-      "artist name": "Tina Yu",
+      "artist_name": "Tina Yu",
       "genre": "Sculptor",
       "city": {
         "location": "New York"
@@ -14,7 +14,7 @@
     },
     {
       "image": "https://res.cloudinary.com/dsvessvkt/image/upload/t_artist_detailed_available_artworks/dpr_3/f_auto/v1607438681/production/artworks/utzcxhtrggrpj499fils.jpg",
-      "artist name": "Junko Mizuno",
+      "artist_name": "Junko Mizuno",
       "genre": "Manga Artist",
       "city": {
         "location": "Tokyo, Japan"
@@ -26,7 +26,7 @@
     },
     {
       "image": "https://i.ebayimg.com/images/g/w8YAAOSwhnxjlKjQ/s-l1600.jpg",
-      "artist name": "Xiaoou Jia x Keme life",
+      "artist_name": "Xiaoou Jia x Keme life",
       "genre": "3D Artist",
       "city": {
         "location": "Canada"
@@ -38,7 +38,7 @@
     },
     {
       "image": "https://images.squarespace-cdn.com/content/v1/579a9f0cf7e0ab143feb45fd/1626508018782-FW7W9XJDXEYQ2059UP9Q/image-asset.jpeg?format=1500w",
-      "artist name": "Tran Nguyen",
+      "artist_name": "Tran Nguyen",
       "genre": "Fine Artist",
       "city": {
         "location": "Can Tho, Vietnam"
@@ -50,7 +50,7 @@
     },
     {
       "image": "https://ae01.alicdn.com/kf/S7e52645a3a774ab18df327c2095558189/Orijinal-mexico-city-den-POPMART-LABUBU-i-ek-peri-serisi-k-r-kutu-oyuncak-modeli-onaylamak.jpg_Q90.jpg_.webp",
-      "artist name": "Kasing Lung",
+      "artist_name": "Kasing Lung",
       "genre": "Fine Artist",
       "city": {
         "location": "Hong Kong"
@@ -62,7 +62,7 @@
     },
     {
       "image": "https://fahrenheitmagazine.b-cdn.net/sites/default/files/styles/xl/public/field/image/ghost_2.jpg",
-      "artist name": "Daniel Clowes",
+      "artist_name": "Daniel Clowes",
       "genre": "Comic Book Artist",
       "city": {
         "location": "Chicago, Illinois"
@@ -74,7 +74,7 @@
     },
     {
       "image": "https://images.squarespace-cdn.com/content/v1/533382a6e4b07ce0259f2152/1667940739796-47V8B9K9ZN5EZVEBFVNQ/Valentine.jpg?format=2500w",
-      "artist name": "Michele Melcher",
+      "artist_name": "Michele Melcher",
       "genre": "Surrealist Painter",
       "city": {
         "location": "Bucks County, Pennsylvania"
@@ -86,7 +86,7 @@
     },
     {
       "image": "https://cdn.shopify.com/s/files/1/0922/5218/products/kozyndan_Bunny_Blossom_web_large.jpg?v=1640661566",
-      "artist name": "KozynDan",
+      "artist_name": "KozynDan",
       "genre": "Illustrators",
       "city": {
         "location": "Los Angeles, Ca"
@@ -98,7 +98,7 @@
     },
     {
       "image": "https://i0.wp.com/www.escapeintolife.com/wp-content/uploads/2010/01/5d773f1d.jpg?resize=634%2C492",
-      "artist name": "Mark Ryden",
+      "artist_name": "Mark Ryden",
       "genre": "Painter",
       "city": {
         "location": "Los Angeles, Ca"
@@ -110,7 +110,7 @@
     },
     {
       "image": "https://64.media.tumblr.com/c2672904041a0b92ea8b24f9273c6cad/629d9f68fa153be1-9d/s540x810/1071098b416a729d4c887bfd7702a041732f357c.jpg",
-      "artist name": "Ai Yazawa",
+      "artist_name": "Ai Yazawa",
       "genre": "Manga Artist",
       "city": {
         "location": "Amagasaki, Hyogo, Japan"
@@ -122,7 +122,7 @@
     },
     {
       "image": "https://format.creatorcdn.com/3e544d36-18ca-4539-825b-302cce8a47a3/0/0/0/0,0,748,1000,800,800/0-0-0/5fe9f564-b15c-487b-935b-f2d4517a3360/1/2/Tara_McPherson_Oct_27_2016.jpg?fjkss=exp=1989250582~hmac=b497a0193d70c00b785187da7c60a3129947ca0f8e80fcc3ed781ee1013b9f5f",
-      "artist name": "Tara Mcpherson",
+      "artist_name": "Tara Mcpherson",
       "genre": "Contemporary Artist",
       "city": {
         "location": "San Francisco, Ca"
@@ -134,7 +134,7 @@
     },
     {
       "image": "https://cdn.shopify.com/s/files/1/1882/8385/products/raf_750x1000_075_t_101010_01c5ca27c6_800x.jpg?v=1521830381",
-      "artist name": "Junjo Ito",
+      "artist_name": "Junjo Ito",
       "genre": "Manga Artist",
       "city": {
         "location": "Nakatsugawa, Gifu, Japan"
@@ -146,7 +146,7 @@
     },
     {
       "image": "https://www.artcollectorz.com/assets/managed/images/cache/ACGEUAAADUAR2AIAAAAAAHIBDUA7777774AAAAAAK4BFQAQA.png",
-      "artist name": "Frank Kozik",
+      "artist_name": "Frank Kozik",
       "genre": "Graphic Artist",
       "city": {
         "location": "Madrid, Spain"
@@ -158,7 +158,7 @@
     },
     {
       "image": "https://wowxwow.com/wp-content/uploads/2015/05/MGraves-A-Stormcloud-of-Jellyfish.jpg",
-      "artist name": "Mab Graves",
+      "artist_name": "Mab Graves",
       "genre": "Contemporary Artist",
       "city": {
         "location": "Indianapolis, indiana"
@@ -170,7 +170,7 @@
     },
     {
       "image": "https://www.sofinearteditions.com/wordpress/wp-content/uploads/2016/11/chloe-early1.jpg",
-      "artist name": "Chloe Early",
+      "artist_name": "Chloe Early",
       "genre": "Contemporary Artist",
       "city": {
         "location": "London, UK"
@@ -182,7 +182,7 @@
     },
     {
       "image": "https://www.thisiscolossal.com/wp-content/uploads/2022/11/devlin-1-scaled.jpg",
-      "artist name": "Molly Devlin",
+      "artist_name": "Molly Devlin",
       "genre": "Contemporary Artist",
       "city": {
         "location": "Sacramento, Ca"
@@ -194,7 +194,7 @@
     },
     {
       "image": "https://www.thisiscolossal.com/wp-content/uploads/2021/09/hirano-2-scaled.jpg",
-      "artist name": "Miho Hirano",
+      "artist_name": "Miho Hirano",
       "genre": "Oil Painting Artist",
       "city": {
         "location": "Chiba, Japan"
@@ -206,7 +206,7 @@
     },
     {
       "image": "https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1479222072796-D8D4RCIMZXQLMYDU8TSV/image-asset.png",
-      "artist name": "Hikari Shimoda",
+      "artist_name": "Hikari Shimoda",
       "genre": "Painter",
       "city": {
         "location": "Nagano, Japan"
@@ -218,7 +218,7 @@
     },
     {
       "image": "https://www.out.com/sites/default/files/styles/vertical_gallery_desktop_1x/public/out299_art_lauren_ys_750x422_5.png?itok=udgPIfHS&timestamp=1634301816",
-      "artist name": "Lauren YS",
+      "artist_name": "Lauren YS",
       "genre": "Contemporary Artist",
       "city": {
         "location": "Los Angeles, Ca"
@@ -230,7 +230,7 @@
     },
     {
       "image": "https://coreyhelfordgallery.com/images/labels/pics/Brandi-Milne-19.jpg",
-      "artist name": "Brandi Milne",
+      "artist_name": "Brandi Milne",
       "genre": "Painter",
       "city": {
         "location": "Anaheim, Ca"
@@ -242,7 +242,7 @@
     },
     {
       "image": "https://d32dm0rphc51dk.cloudfront.net/vDpFPbaaYlfGkl1RRcr-JQ/large.jpg",
-      "artist name": "Gary Baseman",
+      "artist_name": "Gary Baseman",
       "genre": "Painter",
       "city": {
         "location": "Los Angeles, Ca"
@@ -254,7 +254,7 @@
     },
     {
       "image": "https://www.dorothycircusgallery.uk/wp-content/uploads/2012/11/Miss-Van-Rainbow-Hair.jpg",
-      "artist name": "Miss Van",
+      "artist_name": "Miss Van",
       "genre": "Street Artist",
       "city": {
         "location": "Toulouse, France"
@@ -266,7 +266,7 @@
     },
     {
       "image": "https://fadmagazine.com/wp-content/uploads/20110903-122141.jpg",
-      "artist name": "Korin Faught",
+      "artist_name": "Korin Faught",
       "genre": "Painter",
       "city": {
         "location": "Los Angeles, Ca"
@@ -278,7 +278,7 @@
     },
     {
       "image": "https://images.squarespace-cdn.com/content/v1/5c6bf5897788977a41bf366e/d4515cc4-f3f4-486b-8246-094132a9000f/P20210907_202905688_E5030256-357D-40A9-85F1-66C0833EFFF3.JPG",
-      "artist name": "Sillda",
+      "artist_name": "Sillda",
       "genre": "Visual Artist",
       "city": {
         "location": "Korea"
@@ -290,7 +290,7 @@
     },
     {
       "image": "https://thinkspaceprojects.com/wp-content/uploads/2014/10/Flower-of-memory-1.jpg",
-      "artist name": "Fuco Ueda",
+      "artist_name": "Fuco Ueda",
       "genre": "Visual Artist",
       "city": {
         "location": "Japan"
