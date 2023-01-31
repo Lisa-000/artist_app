@@ -7,7 +7,7 @@ const Artist = (props) => {
       <center>
         <h3>{props.name}</h3>
 
-        <p>{props.city}</p>
+        <p>{props.location}</p>
       </center>
     </div>
   )

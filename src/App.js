@@ -1,24 +1,26 @@
 import './App.css'
 import Artist from './components/Artist'
 import Genre from './components/Genre'
-import artistArray from './data.json'
-import genres from './data.json'
+import artistsArray from './info.json'
+import genres from './info.json'
+
 const App = () => {
+  console.log(artistsArray)
   return (
     <div>
       <h1>
         <center>Artist Directory</center>
       </h1>
-      <div className="moviestyle">
-        {artistArray.map((Artist) => (
+      <div>
+        {artistsArray.map((artist) => (
           <div className="moviestyletwo">
             <Artist
-              name={Artist.artist_name}
-              location={Artist.location}
-              image={Artist.image}
+              name={artist.artist_name}
+              location={artist.location}
+              image={artist.image}
             />
             <div className="genrecont">
-              {Artist.genres.map((genre, index) => (
+              {artistsArray.genres.map((genre, index) => (
                 <Genre genre={genre.name} />
               ))}
             </div>
