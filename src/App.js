@@ -3,6 +3,7 @@ import Artist from './components/Artist'
 import Genre from './components/Genre'
 import artistsArray from './info.json'
 import genres from './info.json'
+import Boxinfo from './components/Boxinfo'
 
 const App = () => {
   console.log(artistsArray)
@@ -13,14 +14,19 @@ const App = () => {
       </h1>
       <div>
         {artistsArray.map((artist) => (
-          <div className="moviestyletwo">
-            <Artist
-              name={artist.artist_name}
-              location={artist.location}
-              image={artist.image}
-            />
-            <div>
-              <Genre genre={artist.genres} />
+          <div className="cards">
+            <Artist image={artist.art_photos} />
+            <div className="cardstwo">
+              <Boxinfo
+                name={artist.artist_name}
+                city={artist.city.location}
+                image={artist.art_photos}
+                socials={artist.websites.social}
+                website={artist.websites.website}
+              />
+              <div>
+                <Genre genre={artist.genres} />
+              </div>
             </div>
           </div>
         ))}
