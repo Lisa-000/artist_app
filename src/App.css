@@ -12,19 +12,15 @@ code {
     monospace;
 }
 
-.genrecont {
-  justify-content: space-evenly;
-  display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-items: center;
-}
-
 .genre {
   grid-row: 1;
   padding: 7px;
   border: 3px solid black;
   border-radius: 5px;
+  width: 180px;
+    height: 20px;
+    text-align: center;
+    
   }
 
   .rows{
@@ -82,4 +78,13 @@ code {
     font-size: 14px;
     font-style: italic;
     
+  }
+
+  .genrecont {
+    justify-content: space-evenly;
+    display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      align-items: center;
+      padding: 1em;
   }
