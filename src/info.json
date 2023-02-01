@@ -12,6 +12,18 @@
     }
   },
   {
+    "art_photos": "https://thinkspaceprojects.com/wp-content/uploads/2014/10/Flower-of-memory-1.jpg",
+    "artist_name": "Fuco Ueda",
+    "genres": "Visual Artist",
+    "city": {
+      "location": "Japan"
+    },
+    "websites": {
+      "social": "https://www.instagram.com/fucoueda/?hl=en",
+      "website": "https://fucoueda.com/"
+    }
+  },
+  {
     "art_photos": "https://res.cloudinary.com/dsvessvkt/image/upload/t_artist_detailed_available_artworks/dpr_3/f_auto/v1607438681/production/artworks/utzcxhtrggrpj499fils.jpg",
     "artist_name": "Junko Mizuno",
     "genres": "Manga Artist",
@@ -45,6 +57,19 @@
     "websites": {
       "social": "https://www.instagram.com/tinayuart/",
       "website": "https://www.instagram.com/mynameistran/"
+    }
+  },
+
+  {
+    "art_photos": "https://images.squarespace-cdn.com/content/v1/5c6bf5897788977a41bf366e/d4515cc4-f3f4-486b-8246-094132a9000f/P20210907_202905688_E5030256-357D-40A9-85F1-66C0833EFFF3.JPG",
+    "artist_name": "Sillda",
+    "genres": "Visual Artist",
+    "city": {
+      "location": "Korea"
+    },
+    "websites": {
+      "social": "https://www.instagram.com/silllllllllllll.da/?hl=en",
+      "website": null
     }
   },
   {
@@ -273,30 +298,6 @@
     "websites": {
       "social": "https://www.instagram.com/korinfaught/?hl=en",
       "website": "https://www.korinfaught.com/"
-    }
-  },
-  {
-    "art_photos": "https://images.squarespace-cdn.com/content/v1/5c6bf5897788977a41bf366e/d4515cc4-f3f4-486b-8246-094132a9000f/P20210907_202905688_E5030256-357D-40A9-85F1-66C0833EFFF3.JPG",
-    "artist_name": "Sillda",
-    "genres": "Visual Artist",
-    "city": {
-      "location": "Korea"
-    },
-    "websites": {
-      "social": "https://www.instagram.com/silllllllllllll.da/?hl=en",
-      "website": null
-    }
-  },
-  {
-    "art_photos": "https://thinkspaceprojects.com/wp-content/uploads/2014/10/Flower-of-memory-1.jpg",
-    "artist_name": "Fuco Ueda",
-    "genres": "Visual Artist",
-    "city": {
-      "location": "Japan"
-    },
-    "websites": {
-      "social": "https://www.instagram.com/fucoueda/?hl=en",
-      "website": "https://fucoueda.com/"
     }
   }
 ]

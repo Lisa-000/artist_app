@@ -48,14 +48,6 @@ code {
     border-radius: 30px;
   }
 
-  .cardstwo{
-    border: 3px solid black ;
-    padding: 1em;
-    width: 500px;
-    height: 89px;
-    background-color: white;
-    border-radius: 30px;
-  }
   .photo{
     display: block;
     margin-left: auto;
@@ -87,4 +79,18 @@ code {
       flex-direction: row;
       align-items: center;
       padding: 1em;
+  }
+
+  .cardcont {
+    justify-content: center;
+    display: flex;
+      align-items: center;
+      border: 3px solid black;
+      border-radius: 5px;
+      width: 500px;
+        height: 200px;
+        text-align: center;
+        font-size: 14px;
+        background-color: white;
+        
   }

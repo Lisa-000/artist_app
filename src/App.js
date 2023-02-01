@@ -19,13 +19,15 @@ const App = () => {
             <div className="genrecont">
               <Genre genre={artist.genres} />
             </div>
-            <Boxinfo
-              name={artist.artist_name}
-              city={artist.city.location}
-              image={artist.art_photos}
-              socials={artist.websites.social}
-              website={artist.websites.website}
-            />
+            <div className="cardcont">
+              <Boxinfo
+                name={artist.artist_name}
+                city={artist.city.location}
+                image={artist.art_photos}
+                socials={artist.websites.social}
+                website={artist.websites.website}
+              />
+            </div>
           </div>
         ))}
       </div>
