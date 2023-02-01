@@ -19,10 +19,8 @@ const App = () => {
               location={artist.location}
               image={artist.image}
             />
-            <div className="genrecont">
-              {artistsArray.genres.map((genre, index) => (
-                <Genre genre={genre.name} />
-              ))}
+            <div>
+              <Genre genre={artist.genres} />
             </div>
           </div>
         ))}
