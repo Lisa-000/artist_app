@@ -9,9 +9,10 @@ const Boxinfo = (props) => {
       <div className="city">
         <p>{props.city}</p>
       </div>
-
-      <p>{props.socials}</p>
-      <p>{props.website}</p>
+      <div className="socials">
+        <p>{props.socials}</p>
+        <p>{props.website}</p>
+      </div>
     </center>
   )
 }

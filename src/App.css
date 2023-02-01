@@ -4,7 +4,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   width: 100vw;
-  background-color: rgb(250, 222, 246);
+  background-color: rgb(246, 231, 244);
 }
 
 code {
@@ -27,7 +27,7 @@ code {
   border-radius: 5px;
   }
 
-  .moviestyle{
+  .rows{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -55,9 +55,8 @@ code {
   .cardstwo{
     border: 3px solid black ;
     padding: 1em;
-    width: 50%;
     width: 500px;
-    height: 600px;
+    height: 89px;
     background-color: white;
     border-radius: 30px;
   }
@@ -75,6 +74,11 @@ code {
     font-size: 22px;
   }
   .city{
+    font-size: 14px;
+    font-style: italic;
+    
+  }
+  .socials{
     font-size: 14px;
     font-style: italic;
     

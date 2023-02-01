@@ -12,7 +12,7 @@ const App = () => {
       <h1>
         <center>Artist Directory</center>
       </h1>
-      <div>
+      <div className="rows">
         {artistsArray.map((artist) => (
           <div className="cards">
             <Artist image={artist.art_photos} />
@@ -34,5 +34,4 @@ const App = () => {
     </div>
   )
 }
-
 export default App
