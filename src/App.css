@@ -59,15 +59,23 @@ code {
   }
 
   .name{
-    font-size: 18px;
+    font-size: 20px;
+    position: absolute;
+    top: 1px; left: 33px;
+    display: flex;
   }
+
+
   .city{
     font-size: 12px;
     letter-spacing: 2px;
     line-height: 0.6;
+    position: relative;
+    
+    
     
   }
- 
+
   .genrecont {
     justify-content: space-evenly;
     display: flex;
@@ -81,10 +89,63 @@ code {
       border: 3px solid black;
       border-radius: 30px;
       width: 26em;
-        height: 6em;
+        height: 7em;
         background-color: white;
         padding: 8px;
         position: relative;
         top: 10px; left: -17px;
         
   }
+
+  .nav-bar {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 4px;
+    font-size: 14px;
+    letter-spacing: 2px;
+    line-height: 0.6;
+    height: 4em;
+  }
+  .nav-info {
+    color: #000000;
+    padding: 4px;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+    a:hover {
+      background-color: rgb(240, 214, 254);
+    }
+
+    .menu {
+      display: flex;
+      justify-content: center;
+    }
+    
+    .hamburger {
+      width: 14px;
+      height: 3px;
+      background-color: black;
+      margin: 3px 0;
+      position: relative;
+      top: 10px; left: -700px;
+    }
+    .hamburgertwo {
+      width: 14px;
+      height: 3px;
+      background-color: black;
+      margin: 3px 0;
+      position: relative;
+      top: 22px; left: -742px;
+    }
+    .hamburgerthree {
+      width: 14px;
+      height: 3px;
+      background-color: black;
+      margin: 3px 0;
+      position: relative;
+      top: 34px; left: -784px;
+    }
+    

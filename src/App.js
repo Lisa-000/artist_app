@@ -4,14 +4,20 @@ import Genre from './components/Genre'
 import artistsArray from './info.json'
 import genres from './info.json'
 import Boxinfo from './components/Boxinfo'
+import Navbar from './components/Navbar'
 
 const App = () => {
   console.log(artistsArray)
   return (
     <div>
+      <Navbar />
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
       <h1>
-        <center>Artist Directory</center>
+        <center>A r t i s t &nbsp;&nbsp;&nbsp;D i r e c t o r y</center>
       </h1>
+
       <div className="rows">
         {artistsArray.map((artist) => (
           <div className="cards">
