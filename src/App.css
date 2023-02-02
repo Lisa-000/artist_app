@@ -80,8 +80,11 @@ code {
   .cardcont {
       border: 3px solid black;
       border-radius: 30px;
-      width: 28em;
-        height: 10em;
+      width: 26em;
+        height: 6em;
         background-color: white;
         padding: 8px;
+        position: relative;
+        top: 10px; left: -17px;
+        
   }
