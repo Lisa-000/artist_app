@@ -30,8 +30,8 @@ code {
     justify-content: space-around;
     gap: 10px;
     gap: 10px 20px;
-    row-gap: 10px;
-    column-gap: 20px;
+    row-gap: 12em;
+    column-gap: 5em;
   
 }
 .serv ul li {
@@ -42,8 +42,8 @@ code {
     border: 3px solid black ;
     padding: 1em;
     width: 50%;
-    width: 500px;
-    height: 600px;
+    width: 25em;
+    height: 29em;
     background-color: white;
     border-radius: 30px;
   }
@@ -59,19 +59,14 @@ code {
   }
 
   .name{
-    font-size: 22px;
+    font-size: 20px;
   }
   .city{
-    font-size: 14px;
+    font-size: 10px;
     font-style: italic;
     
   }
-  .socials{
-    font-size: 14px;
-    font-style: italic;
-    
-  }
-
+ 
   .genrecont {
     justify-content: space-evenly;
     display: flex;
@@ -82,15 +77,10 @@ code {
   }
 
   .cardcont {
-    justify-content: center;
-    display: flex;
-      align-items: center;
       border: 3px solid black;
-      border-radius: 5px;
-      width: 500px;
-        height: 200px;
-        text-align: center;
-        font-size: 14px;
+      border-radius: 30px;
+      width: 28em;
+        height: 10em;
         background-color: white;
-        
+        padding: 8px;
   }
