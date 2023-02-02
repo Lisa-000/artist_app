@@ -36,7 +36,7 @@ const Genre = (props) => {
       colorVariable = 'DarkSeaGreen'
       break
     case 'Street Artist':
-      colorVariable = 'DarkSlateGrey'
+      colorVariable = 'AliceBlue'
       break
     case 'Visual Artist':
       colorVariable = 'HoneyDew'

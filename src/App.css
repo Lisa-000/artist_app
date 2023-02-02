@@ -100,51 +100,19 @@ code {
   .nav-bar {
     background-color: #ffffff;
     color: #000000;
-    padding: 4px;
+    padding: 3px;
     letter-spacing: 2px;
     height: 4em;
   }
   .nav-info {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #000000;
-    padding: 4px;
-    font-size: 20px;
-    line-height: 50px;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-around;
+    padding: 5px;
+    font-size: 23px;
+  align-items: center;
+  position: relative;
+  top: 10px; left: 755px;
   }
     a:hover {
-      background-color: rgb(147, 107, 169);
+      background-color: rgb(178, 154, 209);
     }
-
-    .menu {
-      display: flex;
-      justify-content: center;
-    }
-    
-    .hamburger {
-      width: 60px;
-      height: 4px;
-      background-color: black;
-      margin: 3px 0;
-      position: relative;
-      top: 10px; left: -580px;
-    }
-    .hamburgertwo {
-      width: 60px;
-      height: 4px;
-      background-color: black;
-      margin: 3px 0;
-      position: relative;
-      top: 22px; left: -640px;
-    }
-    .hamburgerthree {
-      width: 60px;
-      height: 4px;
-      background-color: black;
-      margin: 3px 0;
-      position: relative;
-      top: 34px; left: -700px;
-    }
-    
