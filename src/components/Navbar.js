@@ -13,6 +13,8 @@ const Navbar = () => {
           <a>HOME</a>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a>ARTIST</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a>CONTACT</a>
         </div>
       </div>
     </div>
