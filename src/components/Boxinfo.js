@@ -6,7 +6,10 @@ const Boxinfo = (props) => {
       <div className="name">
         <h3>{props.name}</h3>
         <div className="city">
-          <p>{props.city}</p>
+          <p>
+            <b>City:</b> {props.city}
+          </p>
+          <b>Website Links:</b>
           <p>{props.socials}</p>
           <p>{props.website}</p>
         </div>

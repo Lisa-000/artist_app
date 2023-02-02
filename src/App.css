@@ -59,11 +59,12 @@ code {
   }
 
   .name{
-    font-size: 20px;
+    font-size: 18px;
   }
   .city{
-    font-size: 10px;
-    font-style: italic;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 0.6;
     
   }
  
